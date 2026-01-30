@@ -1,0 +1,12 @@
+streamlit>=1.30.0
+langchain>=0.1.0
+langchain-openai>=0.0.5
+langchain-community>=0.0.10
+langgraph>=0.0.30
+typing-extensions>=4.8.0
+networkx>=3.2
+faiss-cpu>=1.7.4
+pypdf2>=3.0.0
+python-dotenv>=1.0.0
+pyvis>=0.3.2
+langraph
